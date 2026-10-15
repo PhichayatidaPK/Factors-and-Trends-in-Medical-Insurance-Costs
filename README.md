@@ -6,8 +6,8 @@
 
 | หัวข้อ | รายละเอียด |
 | --- | --- |
-| ชื่อชุดข้อมูล | IT Salary Survey EU 2020 |
-| แหล่งที่มาเดิม | https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region |
+| ชื่อชุดข้อมูล | Medical Insurance Cost with Linear Regression |
+| แหล่งที่มาเดิม | [https://www.kaggle.com/code/mariapushkareva/medical-insurance-cost-with-linear-regression/input] |
 | ประเภทข้อมูล | ข้อมูลแบบสำรวจที่ผู้ตอบรายงานเอง (self-reported) 1 แถวต่อผู้ตอบ 1 คน |
 
 ## 2. ไฟล์ในโฟลเดอร์นี้
