@@ -1,9 +1,0 @@
-variable,category,n,percent
-sex,male,676,50.5
-sex,female,662,49.5
-smoker,no,1064,79.5
-smoker,yes,274,20.5
-region_group,southeast,364,27.2
-region_group,southwest,325,24.3
-region_group,northwest,325,24.3
-region_group,northeast,324,24.2
