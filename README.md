@@ -9,7 +9,6 @@
 | หัวข้อ | รายละเอียด |
 | --- | --- |
 | ผู้จัดทำ | **นางสาวพิชญธิดา เกษตรภิบาล 68030172 <br><br> นางสาวกานต์ธิดา จันทร์ประทัด 68030854** |
-
 | ชื่อชุดข้อมูล | Medical Insurance Cost with Linear Regression |
 | แหล่งที่มาเดิม | [https://www.kaggle.com/code/mariapushkareva/medical-insurance-cost-with-linear-regression/input] |
 วันที่ดึง |27 สิงหาคม พ.ศ.2569|
